@@ -1,11 +1,14 @@
-<div <div align="center">
+<div align="center">
  <img src="https://github.com/dewantaratirta/dewantaratirta/blob/main/img/welcome.gif?raw=true"/>
+</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/separator-4.gif" width="600px" align="center"/>
 </div>
 <br/>
 
 
 </br>
-<h3 align="center"> ABOUT ME</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/rose.gif" height="25px"/> ABOUT ME</h3>
 <img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/separator-1.gif" width="100%"/>
 
 <p align="center">Informatics Engineering UPN Veteran Yogyakarta</p>
@@ -43,3 +46,13 @@
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
 </div>
 
+<br>
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/separator-2.gif" width="100%"/>
+</div>
+
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/counter.svg"/>
+</div>
