@@ -2,19 +2,23 @@
  <img src="https://github.com/dewantaratirta/dewantaratirta/blob/main/img/welcome.gif?raw=true"/>
 </div>
 
-<img alt="GIF" src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/Tumblr_mj43yrvZ5s1r8td1do1_100.webp?raw=true" width="98" height="94" align="right"/>
-<h1 style="align: right">Hello, I'm Dewantara </h1>
+<br>
+<div>
+ <h1 align="center">Hello, I'm Dewantara </h1>
+ </div>
+
 
 <br/>
 
-[![Site](https://img.shields.io/badge/profile-grey?style=for-the-badge&logoColor=white)](https://dewantaratirta.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewantara-tirta/)
+<div align="center">
+<a href="https://dewantaratirta.github.io"><img src="https://img.shields.io/badge/profile-grey?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dewantara-tirta/"><img src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dewantara.tirta@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+</div>
 
 
 </br>
-<h3 align="center"><img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/hot-2.gif" height="11px"/> ABOUT ME</h2>
+<h3 align="center"><img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/hot-2.gif" height="11px"/> ABOUT ME</h3>
 
 <p align="center">Informatics Engineering UPN Veteran Yogyakarta</p>
 <p align="center">Passionate to learn new technology</p>
@@ -22,6 +26,7 @@
 <br><br>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/download.gif" /> TECHNOLOGIES AND SKILLS</h2>
+
 
 [![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
