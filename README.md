@@ -8,7 +8,7 @@
 
 
 </br>
-<h3 align="center"><img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/rose.gif" height="25px"/> ABOUT ME</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/rose.gif" height="25px" width="42px"/> ABOUT ME</h3>
 <img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/separator-1.gif" width="100%"/>
 
 <p align="center">Informatics Engineering UPN Veteran Yogyakarta</p>
@@ -56,3 +56,11 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/counter.svg"/>
 </div>
+
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/badge-ie.gif"/>
+<img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/badge-netscape.gif"/>
+<img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/badge-geocities.gif"/>
+</div>
+
