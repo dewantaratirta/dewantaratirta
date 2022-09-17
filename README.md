@@ -52,10 +52,25 @@
 <img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/separator-2.gif" width="100%"/>
 </div>
 
+
+
 <br>
 <div align="center">
+<p align="center">You are visitor number</p>
 <img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/counter.svg"/>
 </div>
+
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/sponsor1.gif"/>
+</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/sponsor3.gif"/>
+</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/sponsor4.gif"/>
+</div>
+
 
 <br>
 <div align="center">
