@@ -14,18 +14,14 @@
 
 
 </br>
+<h3 align="center"><img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/hot-2.gif" height="11px"/> ABOUT ME</h2>
 
+<p align="center">Informatics Engineering UPN Veteran Yogyakarta</p>
+<p align="center">Passionate to learn new technology</p>
+<p align="center">Currently working @ ICUBE by Sirclo</p>
+<br><br>
 
-## 📃About
-
-* 🎓 Informatics Engineering UPN Veteran Yogyakarta;
-* 🖥️ Passionate to learn new technology;
-* ⌨️ Currently working @ ICUBE by Sirclo;
-
-
-
-## 🖥️ Technologies and Skills
-
+<h3 align="center"><img src="https://raw.githubusercontent.com/dewantaratirta/dewantaratirta/main/img/download.gif" /> TECHNOLOGIES AND SKILLS</h2>
 
 [![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
