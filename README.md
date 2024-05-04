@@ -13,7 +13,7 @@
 
 <p align="center">Informatics Engineering UPN Veteran Yogyakarta</p>
 <p align="center">Passionate to learn new technology</p>
-<p align="center">Currently working @ ICUBE by Sirclo</p>
+
 <div align="center">
 <a href="https://dewantaratirta.github.io"><img src="https://img.shields.io/badge/profile-grey?style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dewantara-tirta/"><img src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
